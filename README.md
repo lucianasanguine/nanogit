@@ -1,0 +1,2 @@
+# nanogit
+CFG
